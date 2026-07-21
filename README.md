@@ -65,7 +65,6 @@ cd tools-umkm
 sudo ./install.sh
 ```
 
-✍️ Author
 Developed with ❤️ by Bob Riva
 
 Bug Bounty Pemula
