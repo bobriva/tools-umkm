@@ -60,7 +60,7 @@ Proyek ini dibuat untuk memangkas waktu instalasi awal saat mau melakukan *pente
 Cukup jalankan perintah ini di terminal kamu:
 
 ```bash
-git clone [https://github.com/bobriva/tools-umkm.git](https://github.com/bobriva/tools-umkm.git)
+git clone https://github.com/bobriva/tools-umkm.git
 cd tools-umkm
 sudo ./install.sh
 ```
